@@ -1,0 +1,25 @@
+[Llaves generales]
+[Bb]uild/
+[Ll]ibrary/
+[Oo]bj/
+[Tt]emp/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+[Archivos del sistema]
+.DS_Store
+Thumbs.db
+.vs/
+
+[Archivos de Unity específicos]
+*.unitypackage
+
